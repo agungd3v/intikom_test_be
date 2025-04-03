@@ -1,4 +1,4 @@
-Install:
+## Install Project
 
 - Create database:
 
